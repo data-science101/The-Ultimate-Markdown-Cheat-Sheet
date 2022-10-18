@@ -32,4 +32,4 @@ The answer depends on your needs. If you are just starting out, Markdown may be 
 
 I will show you examples for each one.
 
-<a href="<a href="https://github.com/data-science101/The-Ultimate-Markdown-Cheat-Sheet/blob/main/the-ultimate-markdown-cheat-sheet.ipynb">">Let's go :)</a>
+<a href="https://github.com/data-science101/The-Ultimate-Markdown-Cheat-Sheet/blob/main/the-ultimate-markdown-cheat-sheet.ipynb">">Let's go :)</a>
