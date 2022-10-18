@@ -1,4 +1,4 @@
-# The ultimate markdown cheat sheet.
+# The Ultimate Markdown Cheat Sheet.
 
 ## Complete Jupyter notebook containing pretty much everything you need to know to use markdown.
 
